@@ -1,7 +1,7 @@
 
 
 Scripts
-Install: npm install
+*Install: npm install
 Build: npm run build
 Lint: npm run lint
 Prettify: npm run prettify
